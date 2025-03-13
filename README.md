@@ -45,8 +45,8 @@ A beautiful, minimalist collaborative whiteboard application that allows multipl
 
 ![Image](https://github.com/user-attachments/assets/9269f6f4-37f7-44b3-bf25-6277c6381aae)
 
-![Image](https://github.com/user-attachments/assets/b2a54ef9-3d8b-48da-91df-98d53358164b)
-
 ![Image](https://github.com/user-attachments/assets/340e6d33-d238-4793-bfb2-ea97e4bfa37f)
+
+![Image](https://github.com/user-attachments/assets/b2a54ef9-3d8b-48da-91df-98d53358164b)
 
 ![Image](https://github.com/user-attachments/assets/8a31adb6-5f5f-4816-995f-e179cd81f5a9)
