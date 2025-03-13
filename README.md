@@ -1,4 +1,4 @@
-# Shared Canvas - Real-Time Collaborative Whiteboard
+# Real-Time Collaborative Whiteboard
 
 A beautiful, minimalist collaborative whiteboard application that allows multiple users to draw, create shapes, and add text in real-time. Built with a focus on simplicity, elegance, and a premium user experience.
 
