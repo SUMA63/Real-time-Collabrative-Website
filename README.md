@@ -1,5 +1,19 @@
 # Real-Time Collaborative Whiteboard
 
+COMPANY : CODETECH IT SOLUTIONS
+
+NAME : SUMA GOWDA
+
+INTERN ID : CT12LIR
+
+DOMAIN : MERN STACK DEVELOPMENT
+
+DURATION : 8 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
+## DESCRIPTION
+
 A beautiful, minimalist collaborative whiteboard application that allows multiple users to draw, create shapes, and add text in real-time. Built with a focus on simplicity, elegance, and a premium user experience.
 
 ## Features
